@@ -25,7 +25,7 @@ SECRET_KEY = '$vtp!b=s&h0c*0oyige*2i^ev!=ymxrua0)19^7(&cml&521&)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [13.125.168.113]
 
 
 # Application definition
